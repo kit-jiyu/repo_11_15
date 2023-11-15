@@ -1,0 +1,3 @@
+this is file 2.
+Is vim better than nano?
+I DONNO :<
